@@ -58,6 +58,8 @@ h2 {
 .card__body {
   display: flex;
   flex-basis: 100%;
+  overflow: auto;
+  word-wrap: break-word;
 }
 
 img {
